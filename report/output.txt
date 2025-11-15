@@ -1,0 +1,61 @@
+IOC Checked: http://testphp.vulnweb.com/
+IOC Checked: 192.168.29.39
+VirusTotal → Malicious: 0, Suspicious: 0
+OTX → Error (Check API key)
+AbuseIPDB → Confidence Score: 0
+--------------------------------------------------
+IOC Checked: 192.168.56.1
+VirusTotal → Malicious: 0, Suspicious: 0
+OTX → Error (Check API key)
+AbuseIPDB → Confidence Score: 0
+--------------------------------------------------
+IOC Checked: http://testphp.vulnweb.com/
+VirusTotal → Malicious: 0, Suspicious: 0
+OTX → IOC not found
+AbuseIPDB → Only works for IP addresses
+--------------------------------------------------
+IOC Checked: www.dghjdgf.com/paypal.co.uk/cycgi-bin/webscrcmd=_home-customer&nav=1/loading.php
+VirusTotal → No data or error occurred
+OTX → IOC not found
+AbuseIPDB → Only works for IP addresses
+--------------------------------------------------
+IOC Checked: myxxxcollection.com/v1/js/jih321/bpd.com.do/do/l.popular.php
+VirusTotal → No data found
+OTX → IOC not found
+AbuseIPDB → Only works for IP addresses
+--------------------------------------------------
+IOC Checked: docs.google.com/spreadsheet/viewform?formkey=dE5rVEdSV2pBdkpSRy11V3o2eDdwbnc6MQ
+VirusTotal → No data found
+OTX → IOC not found
+AbuseIPDB → Only works for IP addresses
+--------------------------------------------------
+IOC Checked: 192.168.56.1
+VirusTotal → Malicious: 0, Suspicious: 0
+OTX → Error (Rate limit or bad IOC type)
+AbuseIPDB → Error (401)
+--------------------------------------------------
+IOC Checked: docs.google.com/spreadsheet/viewform?formkey=dE5rVEdSV2pBdkpSRy11V3o2eDdwbnc6MQ
+VT → Not a URL
+OTX → IOC not found
+AbuseIPDB → Only works for IP addresses
+--------------------------------------------------
+IOC Checked: www.aclaydance.com/ncpf.php
+VT → Not a URL
+OTX → IOC not found
+AbuseIPDB → Only works for IP addresses
+--------------------------------------------------
+IOC Checked: https://www.aclaydance.com/ncpf.php
+VT → Malicious: 2, Suspicious: 0
+OTX → IOC not found
+AbuseIPDB → Only works for IP addresses
+--------------------------------------------------
+IOC Checked: www.aclaydance.com/ncpf.php
+VT → Error submitting URL (401)
+OTX → IOC not found
+AbuseIPDB → Only works for IP addresses
+--------------------------------------------------
+IOC Checked: www.aclaydance.com/ncpf.php
+VT → Malicious: 2, Suspicious: 0
+OTX → IOC not found
+AbuseIPDB → Only works for IP addresses
+--------------------------------------------------
